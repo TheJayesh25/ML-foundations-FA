@@ -37,5 +37,3 @@ This repository is primarily for personal learning, but if you have suggestions,
 Special thanks to [Jon Krohn](https://github.com/jonkrohn) for the amazing content and resources on ML.
 
 Stay tuned for regular updates! 🌟
-
->>>>>>> 0b2ee867103bdfb153aa6d6605ea36c73cf10a92
